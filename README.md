@@ -5,7 +5,7 @@ Minha bebida favorita é **café** ☕️ eu sei todo programador(a) vai dizer q
 
 #### Me segue lá 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/) 
 
 ## 🪐 Na minha máquina funciona 👽 
 
