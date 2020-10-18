@@ -5,8 +5,6 @@ Minha bebida favorita é **café** ☕️ eu sei todo programador(a) vai dizer q
 
 ## 🪐 Na minha máquina funciona 👽 
 
-####  <center> Qual você gosta mais? E que tal trabalhar com os dois? 💪
-
 <center><img src="https://i.redd.it/mm4i4vktv9o21.png" alt="drawing" width="300" />
 
 #### Me segue lá 
