@@ -1,6 +1,6 @@
 Olá! meu nome é  Vanessa  Helena 💁, moro no Brasil.  
 
-Sou formada em Análise e Desenvolvimento de Sistemas 
+Sou formada em Análise e Desenvolvimento de Sistemas. 
 Minha bebida favorita é **café** ☕️ eu sei todo programador(a) vai dizer que gosta de café é bem clichê,  mas a verdade é que muito antes eu já gostava.  
 
 ## 🪐 Na minha máquina funciona 👽 
