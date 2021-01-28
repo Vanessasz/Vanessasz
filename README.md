@@ -5,7 +5,7 @@ Minha bebida favorita é **café** ☕️ eu sei todo programador(a) vai dizer q
 
 ## 🪐 Na minha máquina funciona 👽 
 
-<center><img src="https://i.imgflip.com/41dmmx.jpg" alt="drawing" width="300" />
+<center><img src="https://i.imgflip.com/41dmmx.jpg" alt="drawing" width="500" />
 
 #### Me segue lá 
 
