@@ -6,7 +6,6 @@ Olá! meu nome é Vanessa S Helena :woman:
 - 📫 Como entrar em contato comigo: atráves do meu linkedin
 - ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕
 <br/>
-<br/>
 <center>
 <table>
 <tr>
@@ -20,11 +19,11 @@ Olá! meu nome é Vanessa S Helena :woman:
 </table>
 </center>
 <br/>
-<br/>
+<center>
 Meus projetinhos :computer: <a href="https://github.com/Vanessasz?tab=repositories">
 <img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
 </a>
-
+</center>
 
 #### Me segue lá 
 
