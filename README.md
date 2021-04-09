@@ -14,9 +14,11 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compact" /></td>
+<center>
 <h5>Meus projetinhos :computer:<h5>
 <a href="https://github.com/Vanessasz?tab=repositories">
 <img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
+<center>
 </a>
 </tr>
 </table>
