@@ -1,4 +1,4 @@
-Olá! meu nome é Vanessa S Helena :woman: :octocat:
+:woman: Olá! meu nome é Vanessa S Helena :octocat:
 
 - 🔭 Atualmente, estou a procura de emprego
 - 🌱 Atualmente estou aprendendo muitas coisas mas o foco principal é FrontEnd
