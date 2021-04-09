@@ -13,7 +13,7 @@ Olá! meu nome é Vanessa S Helena :woman:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compact" />
 </a>&nbsp;
 [Meus projetinhos :computer:](https://github.com/Vanessasz?tab=repositories)
-![Gato_programando](https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif)
+![alt text](https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif)
 
 #### Me segue lá 
 
