@@ -19,14 +19,14 @@ Olá! meu nome é Vanessa S Helena :woman:
 </table>
 </center>
 <br/>
+<center><h5>Meus projetinhos :computer:<h5><center>
 <center>
-<h5>Meus projetinhos :computer:<h5>
 <a href="https://github.com/Vanessasz?tab=repositories">
 <img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
 </a>
 </center>
 
-#### Me segue lá 
+#### Me segue lá 💗
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-dfbfbdcc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/) 
 
