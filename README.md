@@ -19,11 +19,16 @@ Olá! meu nome é Vanessa S Helena :woman:
 </table>
 </center>
 <br/>
-<center><h5>Meus projetinhos :computer:<h5><center>
 <center>
-<a href="https://github.com/Vanessasz?tab=repositories">
-<img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
+<table>
+<tr>
+<h5>Meus projetinhos :computer:<h5>
+<center>
+<td><a href="https://github.com/Vanessasz?tab=repositories"></td>
+<td><img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif"></td>
 </a>
+</tr>
+</table>
 </center>
 
 #### Me segue lá 💗
