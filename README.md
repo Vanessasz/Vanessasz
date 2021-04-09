@@ -20,7 +20,8 @@ Olá! meu nome é Vanessa S Helena :woman:
 </center>
 <br/>
 <center>
-Meus projetinhos :computer: <a href="https://github.com/Vanessasz?tab=repositories">
+<h5>Meus projetinhos :computer:<h5>
+<a href="https://github.com/Vanessasz?tab=repositories">
 <img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
 </a>
 </center>
