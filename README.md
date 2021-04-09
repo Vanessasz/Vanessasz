@@ -6,12 +6,14 @@ Olá! meu nome é Vanessa S Helena
 - 📫 Como entrar em contato comigo: atráves do meu linkedin
 - ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕️ 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)" />
-</a>
+<center>
+<table>
+<tr>
+<td><img width=”470px” align=”left” src=”https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats” /></td>
+<td><img width=”390px” align=”left” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats” /></td>
+</tr>
+</table>
+</center>
 
 #### Me segue lá 
 
