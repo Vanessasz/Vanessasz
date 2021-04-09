@@ -12,9 +12,11 @@ Olá! meu nome é Vanessa S Helena :woman:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compact" />
 </a>&nbsp;
-[Meus projetinhos :computer:](https://github.com/Vanessasz?tab=repositories)
-![Gato programando](https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif)
 
+Meus projetinhos :computer: <a href="https://github.com/Vanessasz?tab=repositories">
+<img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif" width="100" height="100">
+</a>
+</p>
 
 #### Me segue lá 
 
