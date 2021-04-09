@@ -9,8 +9,8 @@ Olá! meu nome é Vanessa S Helena
 <center>
 <table>
 <tr>
-<td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)” /></td>
-<td><[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)” /></td>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)”
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)”
 </tr>
 </table>
 </center>
