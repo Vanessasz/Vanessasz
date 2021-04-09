@@ -4,8 +4,9 @@ Olá! meu nome é Vanessa S Helena :woman:
 - 🌱 Atualmente estou aprendendo muitas coisas mas o foco principal é FrontEnd
 - 💬 Pergunte-me sobre tecnologia, vamos aprender juntos? 
 - 📫 Como entrar em contato comigo: atráves do meu linkedin
-- ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕️<br/>
-
+- ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕
+<br/>
+<br/>
 <center>
 <table>
 <tr>
@@ -17,7 +18,9 @@ Olá! meu nome é Vanessa S Helena :woman:
 </a>
 </tr>
 </table>
-</center><br/>
+</center>
+<br/>
+<br/>
 Meus projetinhos :computer: <a href="https://github.com/Vanessasz?tab=repositories">
 <img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
 </a>
