@@ -10,7 +10,7 @@ Olá! meu nome é Vanessa S Helena
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compact" />
 </a>
 
 #### Me segue lá 
