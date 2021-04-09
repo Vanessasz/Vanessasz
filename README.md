@@ -5,15 +5,15 @@ Olá! meu nome é Vanessa S Helena :woman:
 - 💬 Pergunte-me sobre tecnologia, vamos aprender juntos? 
 - 📫 Como entrar em contato comigo: atráves do meu linkedin
 - ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕️ 
- 
+&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compact" />
 </a>
-
-<img align="center" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif" />
+&nbsp;
+[![Meus projetinhos :computer:](https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif)](https://github.com/Vanessasz?tab=repositories)	
 
 #### Me segue lá 
 
