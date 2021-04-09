@@ -26,12 +26,11 @@
 <center>
 <a href="https://github.com/Vanessasz?tab=repositories">
 <img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
+#### Me segue lá 💗
+<td>[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/)</td> 
 </a>
 </tr>
 </table>
 </center>
 
-#### Me segue lá 💗
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/) 
 
