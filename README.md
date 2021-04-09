@@ -24,8 +24,8 @@ Olá! meu nome é Vanessa S Helena :woman:
 <tr>
 <h5>Meus projetinhos :computer:<h5>
 <center>
-<td><a href="https://github.com/Vanessasz?tab=repositories"></td>
-<td><img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif"></td>
+<a href="https://github.com/Vanessasz?tab=repositories">
+<img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
 </a>
 </tr>
 </table>
@@ -33,5 +33,5 @@ Olá! meu nome é Vanessa S Helena :woman:
 
 #### Me segue lá 💗
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-dfbfbdcc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20 S Helena-dfbfbdcc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/) 
 
