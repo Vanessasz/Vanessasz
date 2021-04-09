@@ -14,23 +14,14 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compact" /></td>
-</a>
-</tr>
-</table>
-</center>
-<br/>
-<center>
-<table>
-<tr>
 <h5>Meus projetinhos :computer:<h5>
-<center>
 <a href="https://github.com/Vanessasz?tab=repositories">
-<img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
+<td><img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif"></td>
 #### Me segue lá 💗
 <td>[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena-951aa9a6/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/)</td> 
 </a>
 </tr>
 </table>
 </center>
-
+<br/>
 
