@@ -7,10 +7,10 @@ Olá! meu nome é Vanessa S Helena
  ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕️ 
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalthide_border" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vanessasz&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compacthide_border" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessasz&theme=cobalt&layout=compact" />
 </a>
 
 #### Me segue lá 
