@@ -25,7 +25,7 @@
 <tr>
 <h5>Meus projetinhos :computer:<h5>
 <a href="https://github.com/Vanessasz?tab=repositories">
-<td><img border="0" alt="Meu repo do gitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif"></td>
+<td><img border="0" alt="Meu repo do GitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif"></td>
 </tr>
 </table>
 </center>
