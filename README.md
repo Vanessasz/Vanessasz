@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente, estou a procura de emprego
 - 🌱 Atualmente estou aprendendo muitas coisas mas o foco principal é FrontEnd
-- 💬 Pergunte-me sobre tecnologia, vamos aprender juntos? 
 - 📫 Como entrar em contato comigo: atráves do meu linkedin
 - ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕
 <br/>
