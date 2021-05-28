@@ -30,6 +30,6 @@
 </center>
   
 #### Me segue lá 💗
-[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena/)](https://www.linkedin.com/in/vanessa-helena-951aa9a6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-helena/)](https://www.linkedin.com/in/vanessa-helena/)
 
 
