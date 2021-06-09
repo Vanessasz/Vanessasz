@@ -1,9 +1,11 @@
-:woman: Olá! meu nome é Vanessa S Helena :octocat:
 
-- 🔭 Atualmente, estou a procura de emprego
-- 🌱 Atualmente estou aprendendo muitas coisas mas o foco principal é FrontEnd
-- 📫 Como entrar em contato comigo: atráves do meu linkedin
-- ⚡ Curiosidade: Sou formada em Análise e Desenvolvimento de Sistemas e minha bebida favorita é **café** ☕
+### Hi 👋 I am Vanessa 
+
+I have a degree in Systems Analysis and Development. I've studied several subjects and technologies but I'm currently studying the Java Universe. 💗
+[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-s-helena/)](https://www.linkedin.com/in/vanessa-s-helena/)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Vanessasz)
+
 <br/>
 <center>
 <table>
@@ -22,14 +24,13 @@
 <center>
 <table>
 <tr>
-<h5>Meus projetinhos :computer:<h5>
+<h5>My projets :computer:<h5>
 <a href="https://github.com/Vanessasz?tab=repositories">
 <img border="0" alt="Meu repo do GitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
 </tr>
 </table>
 </center>
   
-#### Me segue lá 💗
-[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-s-helena/)](https://www.linkedin.com/in/vanessa-s-helena/)
+
 
 
