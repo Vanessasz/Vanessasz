@@ -1,6 +1,6 @@
 ### Hi 👋 I am Vanessa 
 
-I have a degree in Systems Analysis and Development. </br>
+I have a degree in Systems Analysis and Development </br>
 I've studied several subjects and technologies, but I'm currently studying the Java Universe. 💗
 
 <h3 align="left">Languages and Tools:</h3>
