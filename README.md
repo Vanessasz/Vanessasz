@@ -8,9 +8,20 @@ I've studied several subjects and technologies, but I'm currently studying the J
 
 - 🌱 I’m currently learning **The Diary of an Anxious Book or How I Stopped Sabotaging Myself - Because it's not just the technical part that's important**
 
-- 📫 How to reach me **vanessa182vans@gmail.com** and  [![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-s-helena/)](https://www.linkedin.com/in/vanessa-s-helena/)
+- 📫 How to reach me **vanessa182vans@gmail.com** and &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-s-helena/)](https://www.linkedin.com/in/vanessa-s-helena/)
 
 <br/>
+
+<center>
+<table>
+<tr>
+<h5>My projets :computer:<h5>
+<a href="https://github.com/Vanessasz?tab=repositories">
+<img border="0" alt="Meu repo do GitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
+</tr>
+</table>
+</center>
+
 <center>
 <table>
 <tr>
@@ -25,15 +36,6 @@ I've studied several subjects and technologies, but I'm currently studying the J
 </center>
 <br/>
 
-<center>
-<table>
-<tr>
-<h5>My projets :computer:<h5>
-<a href="https://github.com/Vanessasz?tab=repositories">
-<img border="0" alt="Meu repo do GitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
-</tr>
-</table>
-</center>
   
 
 
