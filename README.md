@@ -2,9 +2,8 @@
 ### Hi 👋 I am Vanessa 
 
 I have a degree in Systems Analysis and Development. I've studied several subjects and technologies but I'm currently studying the Java Universe. 💗
+<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-s-helena/)](https://www.linkedin.com/in/vanessa-s-helena/)
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Vanessasz)
 
 <br/>
 <center>
