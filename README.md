@@ -12,7 +12,7 @@
 - 🌱 In the dev world it is very important that we have hard skills, but most of the time we forget that soft skills are also important. That's why I'm reading the book Diary of an anxious person or how I stopped sabotaging myself **and it's helping me a lot in this regard**
 
 
-- 📫 How to reach me **vanessa182vans@gmail.com** and &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Vanessa% S 20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-s-helena/)](https://www.linkedin.com/in/vanessa-s-helena/)
+- 📫 How to reach me **vanessa182vans@gmail.com** and &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Helena-FF69B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-s-helena/)](https://www.linkedin.com/in/vanessa-s-helena/)
 
 <br/>
 
