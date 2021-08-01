@@ -19,14 +19,8 @@
 
 <table>
 <center>
-<tr>
-<h5>My projets :computer:<h5>
-<a href="https://github.com/Vanessasz?tab=repositories">
-<img border="0" alt="Meu repo do GitHub" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif">
-</tr>
 </center>
 </table>
-
 <center>
 <table>
 <tr>
