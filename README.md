@@ -1,4 +1,8 @@
-### Hi 👋 I am Vanessa 
+### Hello world! <img border="0" alt="Earth" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif"> 
+
+Oi, sou a Vanessa e seja muito bem vindo ao meu GitHub
+
+<img border="0" alt="Coffee" src="https://i.gifer.com/KkH.gif">
 
 - I have a degree in Systems Analysis and Development 💗
 
