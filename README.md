@@ -2,20 +2,20 @@
 
 ## <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="30"> Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-##### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, desenvolvimento front-end, café, livros, coisitas fofas e filmes. 
+#### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, desenvolvimento front-end, café, livros, coisitas fofas e filmes. 
 
--  ##### :goberserk: A procura de um emprego na área<br />
--  ##### :ok_woman: Estudando para me tornar uma dev fullstack 
+-  #### :goberserk: A procura de um emprego na área<br />
+-  #### :ok_woman: Estudando para me tornar uma dev fullstack 
    
-##### Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, carreira, ou sobre o que você quiser. 
-<h5 align="left">Contato:</h3>
+#### Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, carreira, ou sobre o que você quiser. 
+<h4 align="left">Contato:</h3>
 
  <a href="https://www.linkedin.com/in/vanessa-s-helena/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
  <a href="https://vanessa182vans">
  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
     
- <h5 align="left">Tecnologias:</h3>
+<h4 align="left">Tecnologias:</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -25,10 +25,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />                                                                                           
-    
-<br/>
-
-
 <table>
 <center>
 </center>
