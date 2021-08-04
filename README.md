@@ -5,7 +5,7 @@
 ## <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="30"> Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-##### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, desenvolvimento front-end, café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
+#### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, desenvolvimento front-end, café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
 
 #### :goberserk: A procura de um emprego na área<br />
 #### :ok_woman: Estudando para me tornar uma dev fullstack 
