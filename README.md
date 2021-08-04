@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/27npJ7KfvMsoM/giphy.gif" alt="mulher doida" />
-</p><br/>
+</p>
 
 ## <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="30"> Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
