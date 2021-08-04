@@ -1,6 +1,9 @@
-![Alt Text](https://media.giphy.com/media/yidUzANREfLN5jczXW/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/27npJ7KfvMsoM/giphy.gif" alt="mulher doida" />
+</p><br/>
 
 ## <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="30"> Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 
 ##### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, desenvolvimento front-end, café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
 
