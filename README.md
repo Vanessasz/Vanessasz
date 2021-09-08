@@ -48,7 +48,7 @@
 <p align="center"> devs que já tomaram cafézin comigo&nbsp; :coffee:</p>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Vanessasz/count.svg" /></p>                                                                                                                                 
                                                                                                                                   
-#### :heartpulse: Obrigada pela visita.                                                                                                                                                                                                                                 
+#### :heartpulse: &nbsp;Obrigada pela visita.                                                                                                                                                                                                                                 
                                                                                                                                   
                                                                                                                                   
                                                                                                                                   
