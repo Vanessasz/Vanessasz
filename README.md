@@ -5,12 +5,12 @@
 ## <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="30"> Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-#### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, desenvolvimento front-end, café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
+#### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia,  café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
 
-#### :goberserk: A procura de um emprego na área<br />
-#### :ok_woman: Estudando para me tornar uma dev front-end
+#### :computer: Analista de Sistema em: Sonda Procwork Informática Ltda<br />
+#### :ok_woman: Estou fazendo MBA: Privacidade e Proteção de Dados Pessoais e cursos em geral sobre Governança de TI e Cybersecurity
    
-#### :love_letter: Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, carreira, ou sobre o que você quiser. 
+#### :love_letter: Pode me chamar para conversar sobre tecnologia, Cybersecurity, carreira, ou sobre o que você quiser. 
 <h4 align="left">Contato:</h3>
 
  <a href="https://www.linkedin.com/in/vanessa-s-helena/">
@@ -45,7 +45,7 @@
 </center>
 <br/>
 
-<p align="center"> devs que já tomaram cafézin comigo&nbsp; :coffee:</p>
+<p align="center"> analistas que já tomaram cafézin comigo&nbsp; :coffee:</p>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Vanessasz/count.svg" /></p>                                                                                                                                 
                                                                                                                                   
 #### :heartpulse: &nbsp;Obrigada pela visita.                                                                                                                                                                                                                                 
