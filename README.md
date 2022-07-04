@@ -5,7 +5,7 @@
 ## <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="30"> Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-#### Eu sou a Vanessa, tenho 32 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia,  café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
+#### Eu sou a Vanessa, tenho 33 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia,  café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
 
 #### :computer: Analista de Sistema em: Sonda Procwork Informática Ltda<br />
 #### :ok_woman: Estou fazendo MBA: Privacidade e Proteção de Dados Pessoais e cursos em geral sobre Governança de TI e Cybersecurity
