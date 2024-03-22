@@ -8,7 +8,7 @@
 #### Eu sou a Vanessa, tenho 35 anos, moro no Rio Grande do Sul, Brasil, sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia,  café, livros, coisitas fofas, filmes. Ah e o bom e velho Rock'n Roll :woman_singer:
 
 #### :computer: Analista de Sistema em: Sonda Procwork Informática Ltda<br />
-#### :ok_woman: MBA: Privacidade e Proteção de Dados Pessoais. Cursos em geral sobre Governança de TI,Cybersecurity e Programação
+#### :ok_woman: MBA: Privacidade e Proteção de Dados Pessoais. Cursos em geral sobre Governança de TI, Cybersecurity e Programação
    
 #### :love_letter: Pode me chamar para conversar sobre tecnologia, programação, carreira, ou sobre o que você quiser. 
 <h4 align="left">Contato:</h3>
